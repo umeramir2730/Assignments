@@ -1,0 +1,135 @@
+* {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.form-logo {
+    width: 250px;
+}
+
+h2 {
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-top: -10px;
+    margin-bottom: 0.3em;
+    display: block;
+}
+
+.sub-header {
+    opacity: 70%;
+}
+
+.btn{
+    border: none;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    display: inline-block;
+    
+}
+
+.new-app{
+    color: rgb(94, 201, 94);
+}
+
+.id-card{
+    color: rgb(91, 91, 192);
+}
+
+.results{
+    color: rgb(91, 91, 192);
+}
+
+.field{
+
+}
+
+.top{
+    margin: auto;
+    text-align: left;
+    width: 35cm;
+    opacity: 15%;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.main{
+    margin: auto;
+    width: 30cm;
+    /*change this to adjust form*/
+    border: none;
+}
+
+.inside-left{
+    float: left;
+    width: 14cm;
+    border: none;
+}
+
+.inside-right{
+    float: right;
+    width: 14cm;
+    border: none;
+    text-align: left;
+}
+
+.inside-bottom{
+    border: none;
+}
+
+.form{
+    text-align: left;
+
+}
+
+.input-label{
+    color: rgb(91, 91, 192);
+    line-height: 35px;
+}
+
+.boxes{
+    width: 530px;
+    padding: 15px;
+    border-radius: 5px;
+    border-color: rgb(94, 201, 94);
+}
+
+.picture-upload{
+    float: left;
+    cursor: pointer;
+    box-sizing: border-box;
+    padding: 40px 30px;
+    height: 104px;
+    text-align: center;
+    vertical-align: top;
+    background-color: #fafafa;
+    border: 1px dashed #d9d9d9;
+    border-radius: 9px;
+}
+
+.upload{
+    float: left;
+    padding: 40px 30px;
+    display: none;
+}
+
+.upload-rules{
+    text-align: left;
+    opacity: 60%;
+}
+
+ol{
+    opacity: 60%;
+}
+
+.submit{
+    width: 28cm;
+    border-radius: 5px;
+    border:thin;
+    padding: 12px 1px ;
+    background-color:rgba(4, 4, 196, 0.767);
+    color: #fafafa;
+    cursor: pointer;
+}
